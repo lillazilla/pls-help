@@ -34,70 +34,70 @@ def main():
 
 #funcs for letters
 def h():
-    print("\n")
+    print("")
     print("*******")
     print("   *   ")
     print("   *   ")
     print("   *   ")
     print("*******")
-    print("\n")
+    print("")
 
 def blank():
     print("\n\n")
 
 def d():
-    print("\n")
+    print("")
     print("*******")
     print("*     *")
     print("*     *")
     print(" *   * ")
     print("  ***  ")
-    print("\n")
+    print("")
 
 def l():
-    print("\n")
+    print("")
     print("*******")
     print("*      ")
     print("*      ")
     print("*      ")
     print("*      ")
-    print("\n")
+    print("")
 
 def e():
-    print("\n")
+    print("")
     print("*******")
     print("*  *  *")
     print("*  *  *")
     print("*  *  *")
     print("*  *  *")
-    print("\n")
+    print("")
 
 def o():
-    print("\n")
+    print("")
     print("*******")
     print("*     *")
     print("*     *")
     print("*     *")
     print("*******")
-    print("\n")
+    print("")
 
 def r():
-    print("\n")
+    print("")
     print("*******")
     print("   *  *")
     print("  **  *")
     print(" * ****")
     print("*      ")
-    print("\n")
+    print("")
 
 def w():
-    print("\n")
+    print("")
     print("*******")
     print("*      ")
     print("****   ")
     print("*      ")
     print("*******")
-    print("\n")
+    print("")
 
 if __name__ == "__main__":
     main()
